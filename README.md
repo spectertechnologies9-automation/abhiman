@@ -1,2 +1,5 @@
-# abhiman
-Digital visiting card — ABHIMAN [cb:b6f27ed7-b691-41dd-8021-42643fc8861e]
+# ABHIMAN — Digital Visiting Card
+
+Live site: https://spectertechnologies9-automation.github.io/abhiman/
+
+Generated and published automatically by Digital Card Builder. Edit the card in the builder and republish rather than editing these files by hand.
